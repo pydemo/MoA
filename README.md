@@ -26,7 +26,7 @@ Mixture of Agents (MoA) is a novel approach that leverages the collective streng
 
 ## Quickstart: MoA in 50 LOC
 
-To get to get started with using MoA in your own apps, see `moa.py`. In this simple example, we'll use 2 layers and 4 LLMs. You'll need to:
+To get started with using MoA in your own apps, see `moa.py`. In this simple example, we'll use 2 layers and 4 LLMs. You'll need to:
 
 1. Install the Together Python library: `pip install together`
 2. Get your [Together API Key](https://api.together.xyz/settings/api-keys) & export it: `export TOGETHER_API_KEY=`
